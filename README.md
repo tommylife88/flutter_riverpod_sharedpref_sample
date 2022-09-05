@@ -1,6 +1,14 @@
 # flutter_riverpod_sharedpref_sample
 
-A new Flutter project.
+A flutter sample project for riverpod, shared_preferences.
+
+Dependencies
+* Flutter 3.3.0
+* use Material3
+* [flutter_riverpod](https://pub.dev/packages/flutter_riverpod)
+* [shared_preferences](https://pub.dev/packages/shared_preferences)
+* [pedantic_mono](https://pub.dev/packages/pedantic_mono)
+* [settings_ui](https://pub.dev/packages/settings_ui)
 
 ## Getting Started
 
